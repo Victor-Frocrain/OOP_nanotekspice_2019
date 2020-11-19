@@ -1,0 +1,5 @@
+.chipsets:
+input a
+output b
+.links:
+b:1 a:1
